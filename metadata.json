@@ -1,0 +1,7 @@
+{
+  "name": "Aura AI Interior Design Studio",
+  "description": "Interactive AI room makeover and interior design consultant with before/after comparison slider, multi-turn design chat, and shoppable furniture links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
